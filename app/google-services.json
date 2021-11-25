@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "218754360106",
+    "firebase_url": "https://xtcproject-e9f00.firebaseio.com",
+    "project_id": "xtcproject-e9f00",
+    "storage_bucket": "xtcproject-e9f00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218754360106:android:e4ef97a5b0380fb49ef453",
+        "android_client_info": {
+          "package_name": "com.example.xtc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218754360106-nghrcs3ii180oloaus6klomkku6nfp60.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.xtc",
+            "certificate_hash": "ef244c141f204770c72cb0b2f3e2573b4e63652b"
+          }
+        },
+        {
+          "client_id": "218754360106-ltravusan8ho64gne7dehace6tjeuesp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK54LVaWQAPTwtvUlqORDzGJcv-yyPUdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218754360106-ltravusan8ho64gne7dehace6tjeuesp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

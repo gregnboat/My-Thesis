@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">XTC</string>
+    <string name="ai_road">AI Road</string>
+    <string name="s_a">START ANALYSIS</string>
+    <string name="i_s">INFORMATION SYSTEM</string>
+    <string name="title">AI Road</string>
+    <string name="email_hint">Your E-mail</string>
+    <string name="hint_password">Password</string>
+    <string name="login_to_account_btn_text">Login to Account</string>
+    <string name="login_reg_btn_text">Need a New Account?</string>
+    <string name="toggle_camera">Switch Camera</string>
+    <string name="detect_object">Detect Object</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="picture_source">Take a Picture From :</string>
+    <string name="pothole_analyzer">Pothole Analyzer</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="app_title">RODA</string>
+    <string name="login_title">login title</string>
+    <string name="your_e_mail">Your E-mail</string>
+    <string name="your_password">Your Password</string>
+    <string name="setup_name_hint">Your Name</string>
+    <string name="setup_btn_name_text">Save Account Settings</string>
+    <string name="login">login</string>
+    <string name="belum_memiliki_akun">Belum memiliki akun? Daftar Disini</string>
+    <string name="sudah_memiliki_akun">Sudah memiliki akun? Login Disini</string>
+    <string name="my_account">My Account</string>
+    <string name="reg_password">Password</string>
+    <string name="reg_confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="report_desc_hint">Add Description</string>
+    <string name="new_report_btn_hint">Post Report</string>
+    <string name="report_description">Lorem Ipsum dolor sit amet, soluta regione urnamitas vis in, qui elit populo ut.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="users_posts">Users Posts</string>
+</resources>
